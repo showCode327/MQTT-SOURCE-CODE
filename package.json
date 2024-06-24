@@ -1,0 +1,11 @@
+{
+  "name": "MQTT-SOURCE-CODE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/showCode327/MQTT-SOURCE-CODE.git",
+  "author": "wjs <wangjunsheng@gumingnc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt-packet": "^9.0.0"
+  }
+}
